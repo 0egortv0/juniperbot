@@ -4,6 +4,11 @@
 
 Версия: **1.1**
 
+![пример](https://github.com/uraabk/juniperbot/assets/10533071/984efb1b-412f-47b2-a983-55dee803447b)
+![пример](https://github.com/uraabk/juniperbot/assets/10533071/3b41f37a-7160-40d1-9cbb-de61572bee7c)
+
+[Наш дс канал](https://discord.gg/TwKWBPrffE) | [Обсудить этот скрипт](https://discord.com/channels/1117328976097067008/1118198677073305692)
+
 ```Julia
 {% set b = component.id %}
 {% if b == null %}
