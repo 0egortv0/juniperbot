@@ -8,6 +8,8 @@
 
 Наш дс канал - https://discord.gg/TwKWBPrffE
 
+
 Офф сайт бота - https://juniper.bot/
+
 Вики - https://docs.juniper.bot/
 
